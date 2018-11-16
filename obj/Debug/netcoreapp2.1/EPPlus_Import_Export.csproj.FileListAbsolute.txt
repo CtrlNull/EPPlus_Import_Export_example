@@ -1,0 +1,14 @@
+/home/ctrl_null/repos/EPPlus_Import_Export/bin/Debug/netcoreapp2.1/EPPlus_Import_Export.deps.json
+/home/ctrl_null/repos/EPPlus_Import_Export/bin/Debug/netcoreapp2.1/EPPlus_Import_Export.runtimeconfig.json
+/home/ctrl_null/repos/EPPlus_Import_Export/bin/Debug/netcoreapp2.1/EPPlus_Import_Export.runtimeconfig.dev.json
+/home/ctrl_null/repos/EPPlus_Import_Export/bin/Debug/netcoreapp2.1/EPPlus_Import_Export.dll
+/home/ctrl_null/repos/EPPlus_Import_Export/bin/Debug/netcoreapp2.1/EPPlus_Import_Export.pdb
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.csprojAssemblyReference.cache
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.csproj.CoreCompileInputs.cache
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.RazorAssemblyInfo.cache
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.RazorAssemblyInfo.cs
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.AssemblyInfoInputs.cache
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.AssemblyInfo.cs
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.RazorTargetAssemblyInfo.cache
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.dll
+/home/ctrl_null/repos/EPPlus_Import_Export/obj/Debug/netcoreapp2.1/EPPlus_Import_Export.pdb
